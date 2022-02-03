@@ -6044,8 +6044,8 @@
       <field type="float" name="pt_compensation">Pressure/temperature compensation</field>
     </message>
     <!-- Abdallah Added this -->
-    <message id="229" name="KEYBOARD_COMMAND">
-     <description>Keyboard command.</description>
+    <message id="229" name="KEY_COMMAND">
+     <description>Keyboard char command (Abdallah Added this from px4 tutorial).</description>
      <field type="char" name="command"> </field>
     </message>
     <!-- MESSAGE IDs 180 - 229: Space for custom messages in individual projectname_messages.xml files -->
